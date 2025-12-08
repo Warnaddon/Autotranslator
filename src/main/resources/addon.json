@@ -3,6 +3,6 @@
   "namespace": "autotranslator",
   "name": "AutoTranslator",
   "author": "Bodywarn",
-  "description": "Hover over to see a translated word.",
+  "description": "Hover over to see a translated word",
   "main": "com.bodywarn.autotranslator.AutoTranslatorAddon"
 }
