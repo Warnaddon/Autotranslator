@@ -30,9 +30,9 @@ labyMod {
         namespace = "autotranslator"
         displayName = "AutoTranslator"
         author = "Bodywarn"
-        description = "Hover over, to see a translated word."
+        description = "Hover over to see a translated word!"
         minecraftVersion = "*"
-        version = rootProject.version.toString()  // Beholder version internt
+        version = rootProject.version.toString()
     }
 }
 
