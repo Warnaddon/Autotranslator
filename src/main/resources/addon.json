@@ -1,0 +1,8 @@
+{
+  "uuid": "f33aebcf-8ddc-4a1c-b9d5-7ca2a7abea99",
+  "namespace": "autotranslator",
+  "name": "AutoTranslator",
+  "author": "Bodywarn",
+  "description": "Hover over, to see a translated word.",
+  "main": "com.bodywarn.autotranslator.AutoTranslatorAddon"
+}

@@ -1,0 +1,15 @@
+{
+  "autotranslator": {
+    "settings": {
+      "name": "Auto Translator",
+      "enabled": {
+        "name": "Enable Auto Translator",
+        "description": "Automatically translate chat messages"
+      },
+      "targetLanguage": {
+        "name": "Target Language",
+        "description": "Select the language to translate messages to"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "enabled": {
+    "icon": "toggle_on",
+    "displayName": "Enable Auto Translator"
+  },
+  "targetLanguage": {
+    "icon": "language",
+    "displayName": "Target Language"
+  }
+}
+
+// made by xWarn copyright 2026
